@@ -6,4 +6,4 @@
 
 ![Mobile Screenshot 2](screenshots/app2.png)
 
-Credit : [@MarcusNg](https://github.com/MarcusNg)
+Credit : [MarcusNg](https://github.com/MarcusNg)
